@@ -14,7 +14,7 @@ public class MainController {
 		String str_peh = "박은혁";
 		String str_pjh = "박종현";
 		String aa = "에잉에이";
-		String s_snh = "성낙현";
+		String s_snh = "성낙현123";
 		String s_csh = "차신해";
 		String s_lyh="이용현";
 		return "main";
