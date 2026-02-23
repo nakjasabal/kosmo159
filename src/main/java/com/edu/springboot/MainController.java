@@ -8,6 +8,7 @@ public class MainController {
 
 	@GetMapping("/")
 	public String main() {
+		String str = "깃헙연동";
 		return "main";
 	}
 }
