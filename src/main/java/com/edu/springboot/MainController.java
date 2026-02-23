@@ -10,6 +10,7 @@ public class MainController {
 	public String main() {
 		String str = "깃헙연동";
 		String str_pjh = "박종현";
+		String s_snh = "성낙현";
 		return "main";
 	}
 }
