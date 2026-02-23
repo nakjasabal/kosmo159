@@ -9,6 +9,7 @@ public class MainController {
 	@GetMapping("/")
 	public String main() {
 		String str = "깃헙연동";
+		String str_pjh = "박종현";
 		return "main";
 	}
 }
