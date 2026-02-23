@@ -18,6 +18,7 @@ public class MainController {
 		String s_csh = "차신해";
 		String s_lyh="이용현";
 		String s_lsg="이슬기 new";
+		String s_ch="정예썹";
 		return "main";
 	}
 }
